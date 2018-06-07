@@ -11,7 +11,7 @@ $price = 39;
 $title = 'my article title';
 
 // insert your merchant secret (web.sandbox.uselaterpaytest.com/merchant -> Developer section) here USING Omaha World Herald
-$secret = '6b4c33268d3f45af9e04a4de0bef150b';
+$secret = '96eb7e66d6274d3593557860dd75991c';
 
 // Create token payload as a JSON string
 $payload = json_encode(
